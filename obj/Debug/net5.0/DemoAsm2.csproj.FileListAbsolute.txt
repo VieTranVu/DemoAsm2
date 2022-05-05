@@ -1,0 +1,16 @@
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.AssemblyInfoInputs.cache
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.AssemblyInfo.cs
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\bin\Debug\net5.0\DemoAsm2.exe
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\bin\Debug\net5.0\DemoAsm2.deps.json
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\bin\Debug\net5.0\DemoAsm2.runtimeconfig.json
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\bin\Debug\net5.0\DemoAsm2.runtimeconfig.dev.json
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\bin\Debug\net5.0\DemoAsm2.dll
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\bin\Debug\net5.0\ref\DemoAsm2.dll
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\bin\Debug\net5.0\DemoAsm2.pdb
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.dll
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\ref\DemoAsm2.dll
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.pdb
+C:\Users\FPT SHOP KM4\Desktop\DemoAsm2\obj\Debug\net5.0\DemoAsm2.genruntimeconfig.cache
